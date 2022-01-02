@@ -1,0 +1,28 @@
+{
+  "name": "reminder-bot",
+  "version": "1.0.0",
+  "description": "reminder for your task or work",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/efulsa/DISCORD-JS-REMINDER-BOT.git"
+  },
+  "keywords": [
+    "reminder-bot"
+  ],
+  "author": "efulsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efulsa/DISCORD-JS-REMINDER-BOT/issues"
+  },
+  "homepage": "https://github.com/efulsa/DISCORD-JS-REMINDER-BOT#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
